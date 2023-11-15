@@ -1,0 +1,6 @@
+1,Bessie,Cow
+2,Cluck,Chicken
+3,Mady,Horse
+4,Patches,Goat
+5,Whiskers,Cat
+6,Dog,1

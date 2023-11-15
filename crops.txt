@@ -1,0 +1,4 @@
+2,Corn,Grain,150
+3,Carrots,Vegetable,200
+4,Tomatoes,Fruit,100
+5,Lettuce,Leafy Green,80
